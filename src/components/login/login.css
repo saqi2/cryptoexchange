@@ -1,0 +1,15 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+}
+.centered {
+    text-align: center;
+    padding: 100px;
+    border: 1px solid gray;
+    /* border-radius: 50px; */
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  }

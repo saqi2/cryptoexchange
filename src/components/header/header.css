@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    background-color: #21252c;
+    color: white;
+    font-family: Arial narrow;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding: 20px;
+  }
+
+  /* #0d6efd */
